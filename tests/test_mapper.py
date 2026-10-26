@@ -1,9 +1,3 @@
----
-
-### File 4: `tests/test_mapper.py` & `data/sample_medicines.json` (Satisfies Sample Data / Test Cases Checklist)[cite: 3]
-Create `tests/test_mapper.py` in your GitHub repository with this code:
-
-```python
 import unittest
 
 SAMPLE_DB = [
