@@ -1,9 +1,3 @@
----
-
-### File 3: `ARCHITECTURE.md` (Satisfies Technical Design Document & Diagrams Checklist)[cite: 3]
-Create a new file named `ARCHITECTURE.md` in your repo and paste this:
-
-```markdown
 # Technical Design Document: SwasthyaSetu AI
 
 ## 1. System Architecture Diagram
